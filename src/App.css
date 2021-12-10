@@ -1,0 +1,39 @@
+.poster{
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+  margin-top: 10px;
+}
+.container{
+  width:300px;
+  margin-left: 10px;
+}
+.product-name{
+  font-size: 18px;
+}
+.product-price{
+  font-size: 18px;;
+}
+.details{
+  margin-top: 0;
+}
+.main-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap:15px;
+  justify-content: space-around;
+  margin-top: 25px;
+}
+.add-container{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  margin-left: 5px ;
+  margin-right: 5px;
+  margin-top: 20px;
+  
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}

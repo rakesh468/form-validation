@@ -1,0 +1,66 @@
+[
+  {
+    "id": "100",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605329993/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8972668698654.png/mxw_1440,f_auto",
+    "name": "Whirlpool Intellifresh 440 Litres 3 Star Frost Free Inverter Double Door Refrigerator (Adaptive Intelligence Technology, IF INV CNV 455 OS, Omega Steel)",
+    "price": "₹75,000",
+    "offered_price": "₹1,000",
+    "emi": "₹2,424"
+  },
+  {
+    "id": "101",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1621256858/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234081_fnzipi.png/mxw_1440,f_auto",
+    "name": "Haier Magic Convertible 375 Litres 3 Star Frost Free Triple Inverter Double Door Refrigerator (10-in-1 Convertible Mode, HRF-3954PMG-E, Mirror Glass)",
+    "price": "₹63,400",
+    "offered_price": "₹42,200",
+    "emi": "₹1,987"
+  },
+  {
+    "id": "102",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605331557/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8951183966238.png/mxw_1440,f_auto",
+    "name": "Whirlpool 324 Litres 3 Star Frost Free Double Door Bottom Mount Refrigerator (Convertible 10 in 1 Modes, IFPRO BM INV CNV, Steel Onyx)",
+    "price": "₹53,150",
+    "offered_price": "₹41,990",
+    "emi": "₹1,767"
+  },
+  {
+    "id": "103",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605167108/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8971467423774.png/mxw_1440,f_auto",
+    "name": "Whirlpool 330 Litres Frost Free Inverter Triple Door Refrigerator (Energy Efficient, FP 343D PROTTON ROY, Alpha Steel)",
+    "price": "₹48,600",
+    "offered_price": "₹36,600",
+    "emi": "₹1,327"
+  },
+  {
+    "id": "104",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605330284/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8970157555742.png/mxw_1440,f_auto",
+    "name": "Whirlpool 265 Litres 3 Star Frost Free Inverter Double Door Refrigerator (Adaptive Intelligence Technology, IF INV CNV 278 ELT, Steel Onyx)",
+    "price": "₹36,700",
+    "offered_price": "₹28,990.00",
+    "emi": "₹1,365"
+  },
+  {
+    "id": "105",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1638268471/Croma%20Assets/Large%20Appliances/Refrigerator/Images/224546_eqwwst.png/mxw_1440,f_auto",
+    "name": "Whirlpool Icemagic Pro 200 Litres 3 Star Direct Cool Single Door Refrigerator (Base Drawer, 215 IMPRO ROY, Purple Mulia)",
+    "price": "₹22,100",
+    "offered_price": "₹16,170.00",
+    "emi": "₹1,250"
+  },
+  {
+    "id": "106",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1634039315/Croma%20Assets/Large%20Appliances/Refrigerator/Images/224544_qj1sdf.png/mxw_1440,f_auto",
+    "name": "Whirlpool 200 Litres 3 Star Direct Cool Single Door Refrigerator (Stabilizer Free Operation, 215 IMPC PRM, Wine Abyss)",
+    "price": "₹20,100",
+    "offered_price": "₹15,490",
+    "emi": "₹729"
+  },
+  {
+    "id": "107",
+    "poster": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1629874276/Croma%20Assets/Large%20Appliances/Refrigerator/Images/238644_s7gin6.png/mxw_1440,f_auto",
+    "name": "Whirlpool Neofresh 265 Litres 2 Star Frost Free Double Door Refrigerator (Stabilizer Free Operation, Pattern Glass)",
+    "price": "₹33,200",
+    "offered_price": "25,990",
+    "emi": "₹865"
+  }
+]
