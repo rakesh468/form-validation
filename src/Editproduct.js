@@ -32,7 +32,7 @@ function Updateproduct({list}){
     };
     console.log(updatelist);
 
-    // edting product using PUT method through fetch //
+    // edting product using PUT method //
 
     fetch(`https://6166c4d613aa1d00170a66f1.mockapi.io/product/${list.id}`,{
     method:"PUT",

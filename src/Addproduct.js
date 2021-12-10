@@ -1,4 +1,3 @@
-import {  useState } from 'react';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { useHistory } from 'react-router-dom';
@@ -18,7 +17,7 @@ const   validateform= yup.object({
 export function Addproduct() {
   const history=useHistory();
 
-    // validation using formik//
+    // validation using formik and yup//
   const {handleChange,values,handleSubmit,touched,errors}=useFormik({
     initialValues:{name:"",
     poster:"",
